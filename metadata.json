@@ -1,0 +1,6 @@
+{
+  "name": "Peak Pixel",
+  "description": "Peak Pixel is a web and app design studio building fast, sharp websites and digital products. We build websites that peak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
